@@ -1,0 +1,2 @@
+# CMS-for-DSS
+Aplikasi ini adalah aplikasi content management system (CMS) khusus untuk decision support system (DSS) atau sistem pengambailan keputusan. anda dapat membuat sistem pengambilan keputusan apa saja menggunakan aplikasi ini. Anda hanya perlu menentukan kriteria-kriterai, bobot dan sebagainya tanpa harus melakukan koding. Untuk merubah algoritma DSS nya, apakah Topsis, dan lain sebagainya, anda hanya perlu menambahkan kode fungsinya dan jadikan sebagai algoritma yang mengeksekusi pemeringkatan.
